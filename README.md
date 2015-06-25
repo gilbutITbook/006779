@@ -1,4 +1,4 @@
-# [압축 파일 전체 다운로드하기](https://github.com/gilbutITbook/006779/releases/download/v1.0.0/006779_Unity2DBook_sources.zip)
+# [한국어 주석_압축 파일 전체 다운로드하기](https://github.com/gilbutITbook/006779/releases/download/v1.0.1/Unity2DSampleKorean.zip)
 (*네트워크 속도에 따라 파일 다운로드가 제대로 안될 수 있습니다. 그럴 경우 길벗출판사 홈페이지를 이용하시기 바랍니다)
 
 【타이틀】
